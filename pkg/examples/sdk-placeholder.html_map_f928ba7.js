@@ -1,0 +1,1 @@
+amis.require.resourceMap({"res":{"b961301":{"type":"js","pkg":"b0e8daa-p7"}},"pkg":{"b0e8daa-p7":{"url":"/amis/pkg/app_fe687d3.js","type":"js"}}});
